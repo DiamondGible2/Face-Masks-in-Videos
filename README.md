@@ -30,8 +30,8 @@ Notebook for creating the classification model will be uploaded soon.
 
 ## Relevant Links
 
-[face_recognition GitHub Repository](https://github.com/ageitgey/face_recognition)
-[face_recognition pypi page](https://pypi.org/project/face-recognition/)
-[TensorFlow Installation Page](https://www.tensorflow.org/install)
-[OpenCv Installation Page](https://pypi.org/project/opencv-python/)
-[Python Download Page](https://www.python.org/downloads/)
+* [face_recognition GitHub Repository](https://github.com/ageitgey/face_recognition)
+* [face_recognition pypi page](https://pypi.org/project/face-recognition/)
+* [TensorFlow Installation Page](https://www.tensorflow.org/install)
+* [OpenCv Installation Page](https://pypi.org/project/opencv-python/)
+* [Python Download Page](https://www.python.org/downloads/)
