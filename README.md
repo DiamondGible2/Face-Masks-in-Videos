@@ -22,11 +22,16 @@ Notebook for creating the classification model will be uploaded soon.
 
 ## Project Setup
 
-1. Clone the project using the following command: git clone https://github.com/DiamondGible2/Face-Masks-in-Videos.git
+1. Clone the project using the following command: 
+```bash
+git clone https://github.com/DiamondGible2/Face-Masks-in-Videos.git 
+```
 2. Install the necessary libraries. The links are given below can be used for the same.
 3. cd into the project folder
 4. Run the file and the video will be displayed with the results on it.
 5. To change the video file, open the face_mask_check.py file and the name inside cv2.VideoCapture()
+
+🌟 You are all set!
 
 ## Relevant Links
 
