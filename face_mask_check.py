@@ -1,18 +1,14 @@
 import face_recognition
 import tensorflow as tf
 import numpy as np
-import dlib
 import pickle
-import json
 import cv2
 import os
-import time
 import shutil
-from time import perf_counter
 
 new_model = tf.keras.models.load_model('mask_detector.model')
 Known_Faces_Dir = "known_faces"
-#Faces_Dir = "faces_here"
+
 Tolerance = 0.6
 Frame_Thickness = 3
 Font_Thickness = 2
