@@ -9,3 +9,5 @@ They can be used if facial recognition is needed.
 If specific faces are to be recognised, add a folder for every face inside the "known_faces" folder. The faces will be recognised by the folder names.
 
 Remove the lines giving unique id to faces and use the names of the folders instead.
+
+Notebook for creating the classification model will be uploaded soon.
