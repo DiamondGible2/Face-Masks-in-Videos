@@ -18,7 +18,7 @@ If specific faces are to be recognised, add a folder for every face inside the "
 
 Remove the lines giving unique id to faces and use the names of the folders instead.
 
-Notebook for creating the classification model will be uploaded soon.
+A classification model is being used to detect whether a person is wearing a face mask or not. The model was built using Keras and TensorFlow. Notebook for creating the model will be uploaded soon.
 
 ## Project Setup
 
